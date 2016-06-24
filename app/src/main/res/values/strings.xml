@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trams</string>
+    <string name="map">Trams Map</string>
+    <string name="about">About Project</string>
+    <string name="contact">Contact Me</string>
+</resources>

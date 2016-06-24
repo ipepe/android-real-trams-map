@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tramsy</string>
+    <string name="map">Mapa Tramsów</string>
+    <string name="about">O projekcie</string>
+    <string name="contact">Skontaktuj się</string>
+</resources>
